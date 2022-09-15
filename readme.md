@@ -19,6 +19,7 @@ This simple project is built with the idea in mind that we will be storing some 
 - a simple Rest API to reach end-points.
 - a simple Entity POJO with it's services and repositories.
 - a security layer.
+Some dummy data is added using [Java Faker](https://github.com/DiUS/java-faker "Java Faker")
 
 ------------
 
